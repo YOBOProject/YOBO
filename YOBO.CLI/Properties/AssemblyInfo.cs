@@ -9,11 +9,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("YOBO Logic")]
+[assembly: AssemblyTitle("YOBO Client")]
 [assembly: AssemblyDescription("Pokémon GO")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("YOBO Team")]
-[assembly: AssemblyProduct("YOBO.Logic")]
+[assembly: AssemblyProduct("YOBO.CLI")]
 [assembly: AssemblyCopyright("Copyright YOBO Team © 2016")]
 [assembly: AssemblyTrademark("YOBO")]
 [assembly: AssemblyCulture("")]
@@ -26,7 +26,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("e8a84bfa-9a67-4e69-bb73-5552133d8e78")]
+[assembly: Guid("cc2a666f-79c2-4264-9559-89b956efed33")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -40,4 +40,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 
 [assembly: AssemblyVersion("0.1.3")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("0.1.3.0")]
